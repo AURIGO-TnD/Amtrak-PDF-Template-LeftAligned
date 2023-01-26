@@ -65,7 +65,7 @@
         color: #09516e !important;
         font-size: 14px;
         border: none;
-        background-color: #020079;
+        background-color: #020079 !important;
                
     }
     @top-left{
@@ -80,7 +80,7 @@
         letter-spacing: 0.025em;
         line-height: 1em;
         border: none;
-        background-color: #020079;
+        background-color: #020079 !important;
         
     }
     @bottom-left{
