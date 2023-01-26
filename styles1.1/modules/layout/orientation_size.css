@@ -4,7 +4,7 @@
  * Document body */
  @page {
     size: A4;
-    margin: 95px 55px;
+    margin: 80px 55px;
 }
 @page:right {
     @top-right {
@@ -227,7 +227,7 @@
   }
 @page landscape {
     size: landscape;
-    margin: 95px 55px;
+    margin: 80px 55px;
   }
 @page landscape:right {
     @top-right {
@@ -304,7 +304,7 @@ nav > ul:first-of-type {
 
 @page toc {
     size: A4;
-    margin: 95px 55px;
+    margin: 80px 55px;
 }
 
 @page toc:left {
@@ -527,7 +527,7 @@ nav > ul.toc_landscape {
 
 @page toc_landscape {
     size: landscape;
-    margin: 95px 55px;
+    margin: 80px 55px;
   }
 @page toc_landscape:right {
     @top-right {
