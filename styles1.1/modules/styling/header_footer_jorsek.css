@@ -79,13 +79,13 @@
         font-size: 14px;
     }
     @bottom-left{
-        content: "© Aurigo Software Technologies Inc.";
+        content: "";
         letter-spacing: 0.025em;
-        color: #09516e !important;
+        font-size:14px;
+        color: #000 !important;
+        background-color: #fff !important;
         font-family: 'Arial', 'Helvetica Neue', sans-serif !important;
         font-style: normal;
-        background-color: #fff !important;
-        font-size: 14px;
         font-weight: bold;
     }
     @bottom-right {
@@ -95,7 +95,7 @@
         font-style: normal;
         font-weight: normal;        
         font-size: 14px;
-        color: #09516e !important;
+        color: #000 !important;
         font-weight: bold;
         content: counter(page);
     }
@@ -126,13 +126,13 @@
         font-size: 14px;
     }
     @bottom-left{
-        content: "© Aurigo Software Technologies Inc.";
+        content: "";
         letter-spacing: 0.025em;
-        color: #09516e !important;
+        font-size:14px;
+        color: #000 !important;
+        background-color: #fff !important;
         font-family: 'Arial', 'Helvetica Neue', sans-serif !important;
         font-style: normal;
-        background-color: #fff !important;
-        font-size: 14px;
         font-weight: bold;
     }
     @bottom-right {
@@ -142,10 +142,9 @@
         font-style: normal;
         font-weight: normal;        
         font-size: 14px;
-        color: #09516e !important;
+        color: #000 !important;
         font-weight: bold;
         content: counter(page);
-        letter-spacing: 0.025em;
     }
 }
 /* Margins fix for the header image. 
