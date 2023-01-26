@@ -55,8 +55,8 @@
     @top-right{
         content: "";
         background-image: url('data:image/png;base64,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');
-        background-size: 45px;
-        width: 45px;
+        background-size: 32px;
+        width: 32px;
         background-position: center;
         background-repeat: no-repeat;
         letter-spacing: 0.025em;
@@ -156,151 +156,151 @@
 Adjust these properties if you use a custom image in the header. 
 Remove or comment-out these properties if you don't use an image in the header. */
 @page:right {
-    @top-left {
-        padding-left: 31mm; 
+    @top-right {
+        padding-right: 31mm; 
     }
 }
 @page:left {
-    @top-left {
-        padding-left: 31mm; 
+    @top-right {
+        padding-right: 31mm; 
     }
 }
 
 @page portrait_large:right {
-    @top-left {
-        padding-left: 41mm; 
+    @top-right {
+        padding-right: 41mm; 
     }
 }
 @page portrait_large:left {
-    @top-left {
-            padding-left: 41mm; 
+    @top-right {
+            padding-right: 41mm; 
         }
 }
 
 @page portrait:right {
-    @top-left {
-        padding-left: 31mm; 
+    @top-right {
+        padding-right: 31mm; 
     }
 }
 @page portrait:left {
-    @top-left {
-        padding-left: 31mm; 
+    @top-right {
+        padding-right: 31mm; 
     }
 }
 
 @page portrait_small:right {
-    @top-left {
-        padding-left: 31mm; 
+    @top-right {
+        padding-right: 31mm; 
     }
 }
 @page portrait_small:left {
-    @top-left {
-        padding-left: 31mm; 
+    @top-right {
+        padding-right: 31mm; 
     }
 }
 
 @page landscape_large:right {
-    @top-left {
-        padding-left: 41mm; 
+    @top-right {
+        padding-right: 41mm; 
     }
 }
 @page landscape_large:left {
-    @top-left {
-        padding-left: 41mm; 
+    @top-right {
+        padding-right: 41mm; 
     }
 }
 @page landscape:right {
-    @top-left {
-        padding-left: 31mm; 
+    @top-right {
+        padding-right: 31mm; 
     }
 }
 @page landscape:left {
-    @top-left {
-        padding-left: 31mm; 
+    @top-right {
+        padding-right: 31mm; 
     }
 }
 @page landscape_small:right {
-    @top-left {
-        padding-left: 31mm; 
+    @top-right {
+        padding-right: 31mm; 
     }
 }
 @page landscape_small:left {
-    @top-left {
-        padding-left: 31mm; 
+    @top-right {
+        padding-right: 31mm; 
     }
 }
 
 @page toc:right {
-    @top-left {
-        padding-left: 31mm; 
+    @top-right {
+        padding-right: 31mm; 
     }
 }
 @page toc:left {
-    @top-left {
-        padding-left: 31mm; 
+    @top-right {
+        padding-right: 31mm; 
     }
 }
 
 @page toc_portrait_large:right {
-    @top-left {
-        padding-left: 41mm; 
+    @top-right {
+        padding-right: 41mm; 
     }
 }
 @page toc_portrait_large:left {
-    @top-left {
-            padding-left: 41mm; 
+    @top-right {
+            padding-right: 41mm; 
         }
 }
 
 @page toc_portrait:right {
-    @top-left {
-        padding-left: 31mm; 
+    @top-right {
+        padding-right: 31mm; 
     }
 }
 @page toc_portrait:left {
-    @top-left {
-        padding-left: 31mm; 
+    @top-right {
+        padding-right: 31mm; 
     }
 }
 
 @page toc_portrait_small:right {
-    @top-left {
-        padding-left: 31mm; 
+    @top-right {
+        padding-right: 31mm; 
     }
 }
 @page toc_portrait_small:left {
-    @top-left {
-        padding-left: 31mm; 
+    @top-right {
+        padding-right: 31mm; 
     }
 }
 
 @page toc_landscape_large:right {
-    @top-left {
-        padding-left: 41mm; 
+    @top-right {
+        padding-right: 41mm; 
     }
 }
 @page toc_landscape_large:left {
-    @top-left {
-        padding-left: 41mm; 
+    @top-right {
+        padding-right: 41mm; 
     }
 }
 @page toc_landscape:right {
-    @top-left {
-        padding-left: 31mm; 
+    @top-right {
+        padding-right: 31mm; 
     }
 }
 @page toc_landscape:left {
-    @top-left {
-        padding-left: 31mm; 
+    @top-right {
+        padding-right: 31mm; 
     }
 }
 @page toc_landscape_small:right {
-    @top-left {
-        padding-left: 31mm; 
+    @top-right {
+        padding-right: 31mm; 
     }
 }
 @page toc_landscape_small:left {
-    @top-left {
-        padding-left: 31mm; 
+    @top-right {
+        padding-right: 31mm; 
     }
 }
