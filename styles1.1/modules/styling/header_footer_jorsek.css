@@ -66,6 +66,7 @@
         font-size: 14px;
         border: none;
         background-color: #020079 !important;
+        height: 10em !important;
                
     }
     @top-left{
@@ -81,6 +82,7 @@
         line-height: 1em;
         border: none;
         background-color: #020079 !important;
+        height: 10em !important;
         
     }
     @bottom-left{
