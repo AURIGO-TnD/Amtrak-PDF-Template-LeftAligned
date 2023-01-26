@@ -3,7 +3,7 @@
 /* TOC */
 @page toc:left{
     @bottom-left{
-        content: "© Aurigo Software Technologies Inc.";
+        content: "";
         letter-spacing: 0.025em;
         color: #09516e !important;
         background-color: #fff !important;
@@ -11,19 +11,23 @@
         font-size:14px;
         font-style: normal;
         font-weight: bold;
-        
 }
     @bottom-right {
-        content: "";
-        letter-spacing: 0.025em;
+        font-size: 14px;
+        background-color: #fff !important;
         font-family: 'Arial', 'Helvetica Neue', sans-serif !important;
-        background-color: #09afd6;
+        font-style: normal;
+        font-weight: normal;        
+        font-size: 14px;
+        color: #09516e !important;
+        font-weight: bold;
+        content: counter(page);
     }
 }
 
 @page toc:right{
     @bottom-left{
-        content: "© Aurigo Software Technologies Inc.";
+        content: "";
         letter-spacing: 0.025em;
         font-size:14px;
         color: #09516e !important;
@@ -34,10 +38,15 @@
         
 }
     @bottom-right{
-        content: "";
-        letter-spacing: 0.025em;
+        font-size: 14px;
         background-color: #fff !important;
         font-family: 'Arial', 'Helvetica Neue', sans-serif !important;
+        font-style: normal;
+        font-weight: normal;        
+        font-size: 14px;
+        color: #09516e !important;
+        font-weight: bold;
+        content: counter(page);
     }
 }
 
