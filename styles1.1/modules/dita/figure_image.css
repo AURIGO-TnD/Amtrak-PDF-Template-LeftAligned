@@ -39,7 +39,7 @@ img {
 .cmd > .image,
 .cmd  img {
   display: inline-block;
-  max-height: 16px;
+  max-height: 100%;
   border: none;
   padding: 0px;
   margin: 0px;
