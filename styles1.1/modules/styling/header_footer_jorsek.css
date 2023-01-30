@@ -70,6 +70,7 @@
         font-size: 14px;
         border: none;
         background-color: #020079 !important;
+        margin-bottom: 5px !important;
                
     }
     @top-left{
@@ -85,6 +86,7 @@
         line-height: 1em;
         border: none;
         background-color: #020079 !important;
+        margin-bottom: 5px !important;
         
     }
     @bottom-left{
