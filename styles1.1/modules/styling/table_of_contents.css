@@ -7,7 +7,7 @@ body > .topictitle1 {
 nav > ul:first-child::before { 
     content: "Table of Contents";
     font-family:'Arial', 'Helvetica Neue', sans-serif !important;
-    font-size: 27px;
+    font-size: 29px;
     color: #0070C0 !important;
     text-align: left;
     font-style: normal;
