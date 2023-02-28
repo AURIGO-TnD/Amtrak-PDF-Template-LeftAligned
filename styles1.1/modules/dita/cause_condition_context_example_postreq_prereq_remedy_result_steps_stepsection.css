@@ -17,7 +17,7 @@
   font-weight: bold;
   font-size: 19px;
   letter-spacing: 0.025em;
-  color: #000;
+  color: #1D1D1D;
 }
 
 /* Fix the placement of cause, remedy, and condition captions. */
@@ -149,7 +149,7 @@ Style the cause and remedy titles. */
   font-style: normal;
   font-weight: bold;
   display: inline;
-  color: #000;
+  color: #1D1D1D;
 }
 
 /* Remove padding for the first paragraph in cause, remedy, and condition elements. */
@@ -166,7 +166,7 @@ Style the cause and remedy titles. */
 .cause > .title::after,
 .remedy > .title::after {
   content: ": ";
-  color: #000;
+  color: #1D1D1D;
 }
 
 /* Removee borders for paragraphs in remedy elements. */
