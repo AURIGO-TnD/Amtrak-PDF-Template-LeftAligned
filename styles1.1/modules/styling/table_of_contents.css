@@ -101,19 +101,23 @@ nav > ul > li > ul > li {
 nav ul li ul li, 
 nav ul li ul li:before {
     font-weight: bold;
+    text-transform: none !important;
 }
 nav > ul > li > ul > li {
     font-weight: bold;
     font-size: 18px;
+    text-transform: none !important;
 }
 nav > ul > li > ul > li > a::after {
     font-weight: bold;
+    text-transform: none !important;
 }
 
 /* Level-3 and deeper. */
 nav ul li ul li ul li, 
 nav ul li ul li ul li:before {
     font-weight: normal;
+    text-transform: none !important;
 }
 
 /* Level-5 and deeper (hidden). */
