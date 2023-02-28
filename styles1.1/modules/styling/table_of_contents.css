@@ -58,7 +58,7 @@ nav ul li {
     padding: 2px 0px 2px 0px; 
     font-size: 16px;
     margin-left: 0px;
-    text-transform: capitalize !important;
+    text-transform: uppercase !important;
   }
 
 /* Style level-1 (chapter) topics that have children. */
