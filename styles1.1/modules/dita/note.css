@@ -7,7 +7,7 @@
 .note {
   clear: both;
   display: block; /* inline-block breaks notes in tables */
-  border-left: 1px solid #000;
+  border: 2px solid #385D8A !important;
   color: #000;
   font-family:'Arial', 'Helvetica Neue', sans-serif !important;
   font-style: normal;
