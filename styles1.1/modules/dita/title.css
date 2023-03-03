@@ -16,7 +16,7 @@ Ensure that the titles children are styled in a consistent way. */
 .table--title-label,
 .fig--title-label,
 figcaption:not(figcaption > .desc) {
-  font-family: "Segoe UI", sans-serif !important;
+  font-family: 'Segoe UI', sans-serif !important;
   color: #002060 !important;
   border: none;
   text-align: left;
