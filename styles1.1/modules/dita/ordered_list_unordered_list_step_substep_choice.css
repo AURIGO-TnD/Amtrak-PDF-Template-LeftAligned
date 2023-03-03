@@ -80,3 +80,17 @@ list-style-type: lower-roman !important;
 ol ol ol ol {
 list-style-type: upper-alpha !important;
 }
+
+/* Style step commands. */
+li.step > .cmd,
+li.step > .cmd > span.ph {
+font-weight: bold;
+color: #000 !important;
+}
+
+/* Style substep commands. */
+li.substep > .cmd,
+li.substep > .cmd > span.ph {
+font-weight: bold;
+color: #000 !important;
+}
