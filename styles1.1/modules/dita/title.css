@@ -16,7 +16,7 @@ Ensure that the titles children are styled in a consistent way. */
 .table--title-label,
 .fig--title-label,
 figcaption:not(figcaption > .desc) {
-  font-family: 'Segoe UI' !important;
+  font-family: "Segoe UI", sans-serif !important;
   src: url("https://AURIGO-TnD.github.io/Amtrak-PDF-Template-LeftAligned/fonts/note_icons/fonts/Segoe%20UI.ttf");
   color: #002060 !important;
   border: none;
