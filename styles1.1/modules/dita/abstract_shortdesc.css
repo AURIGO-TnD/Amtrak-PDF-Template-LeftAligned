@@ -4,7 +4,7 @@ Apply default styling. */
 .shortdesc {
     font-style: normal;
     font-family: 'Arial', 'Helvetica Neue', sans-serif !important;
-    color: #000;
+    color: #000 !important;
 }
 
 /* Add paragraph-like margins to short descriptions. */
