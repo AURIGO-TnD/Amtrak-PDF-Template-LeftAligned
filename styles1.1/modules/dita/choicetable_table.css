@@ -38,7 +38,7 @@ th *{
   color: #000 !important; /* The important property seems to be needed to overwrite the default PDF Gen and SSG styling */
   padding: 10px;
   letter-spacing: 0.5px;
-  background-color: #0065B0 !important;
+  background-color: #00008B !important;
 }
 th, td {
   border: 1px solid #000
