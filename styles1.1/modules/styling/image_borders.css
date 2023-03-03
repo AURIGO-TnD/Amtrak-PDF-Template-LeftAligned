@@ -1,12 +1,12 @@
 /* Add image borders to image elements. */
 .image,
 .body img {
-    border: 1px solid #dadde1 !important;
+    border: none !important;
     margin: 0px 0px 0px 0px !important;
 }
 /* Figure */
 .fig > img.image {
-border: 1px solid #2d9ed0 !important;
+border: 2px solid #0070C0 !important;
 }
 
 /* Disable image borders by assigning the @outputclass="no_borders" attribute to the image element. */
