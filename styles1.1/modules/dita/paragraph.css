@@ -34,6 +34,7 @@ context,
 .context {
   display: block;
   font-family: 'Arial', 'Helvetica Neue', sans-serif !important;
+  color: #000 !important;
   padding: 0px;
   margin: 15px 0px 0px 0px !important;
   text-align: left !important;
@@ -42,6 +43,7 @@ context,
 .postreq {
   display: block;
   font-family: 'Arial', 'Helvetica Neue', sans-serif !important;
+  color: #000 !important;
   padding: 0px;
   margin: 15px 0px 0px 0px !important;
   text-align: justify !important;
